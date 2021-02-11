@@ -1,3 +1,5 @@
+// Cowsay go brrrrr
+
 package main
 
 import (
